@@ -1,0 +1,1 @@
+# Siddhartha_OCR-model-for-text-identification
